@@ -1,0 +1,1 @@
+这里使用input的python脚本需要使用python3来执行
